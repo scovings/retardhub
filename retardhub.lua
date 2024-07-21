@@ -27,4 +27,5 @@ local Window = Rayfield:CreateWindow({
 })
 
 if PlaceID == 4483381587
-local Tab = Window:CreateTab("A Literal Baseplate", 0) -- Title, Image
+
+   local Tab = Window:CreateTab("A Literal Baseplate", 0) -- Title, Image
